@@ -43,7 +43,7 @@ To create a new automation project in Zenith:
 
 ### Collaboration
 
-Zenith offers multiple collaboration features to boost teamwork. Below is a comparison of the available options:
+Zenith offers multiple collaboration features to boost teamwork. Below is a comparison of the available options📅:
 
 | Collaboration Option  | Description                             | Communication Tool |
 |-----------------------|-----------------------------------------|--------------------|
@@ -96,7 +96,7 @@ echo "Backup completed successfully!"
 ```
 ### Integrations
 
-Zenith integrates with various external tools, enabling a seamless workflow. Here's a list of supported applications:
+Zenith integrates with various external tools, enabling a seamless workflow. Here's a list of supported applications📅:
 
 | Application Name  | Description                             | Link               |
 |-------------------|-----------------------------------------|--------------------|
@@ -106,13 +106,8 @@ Zenith integrates with various external tools, enabling a seamless workflow. Her
 
 ## Footnotes
 
-1. [Markdown Guide Cheat Sheet](https://www.markdownguide.org/cheat-sheet) - Reference for Markdown syntax.
-2. [Bash Scripting Tutorial](https://linuxconfig.org/bash-scripting-tutorial-for-beginners) - Learn more about scripting with Bash.
-
-## Emojis
-
-- 📅 Use the **Automated Task Scheduling** feature to schedule tasks efficiently.
-- ✅ Completed workflows are easily tracked in real-time.
+1. [Markdown Guide Cheat Sheet](https://www.markdownguide.org/cheat-sheet) - Reference for Markdown syntax✅.
+2. [Bash Scripting Tutorial](https://linuxconfig.org/bash-scripting-tutorial-for-beginners) - Learn more about scripting with Bash✅.
 
 
 
